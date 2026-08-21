@@ -9,6 +9,33 @@
 	<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 	<meta name="mobile-web-app-capable" content="yes">
 	<link rel="shortcut icon" type="image/png" href="./favicon.png">
+	
+	<script>
+		// Block any code (including obfuscated anti-host logic) from navigating the page to about:blank
+		(function () {
+			function isAboutBlank(v) {
+				return typeof v === 'string' && /^\s*about:blank/i.test(v);
+			}
+			try {
+				if (typeof Location !== 'undefined') {
+					var hrefDesc = Object.getOwnPropertyDescriptor(Location.prototype, 'href');
+					if (hrefDesc && hrefDesc.configurable) {
+						Object.defineProperty(Location.prototype, 'href', {
+							get: function () { return hrefDesc.get.call(this); },
+							set: function (v) { if (!isAboutBlank(v)) { hrefDesc.set.call(this, v); } },
+							configurable: true
+						});
+					}
+					var pAssign = Location.prototype.assign, pReplace = Location.prototype.replace;
+					Location.prototype.assign = function (u) { if (!isAboutBlank(u)) { return pAssign.call(this, u); } };
+					Location.prototype.replace = function (u) { if (!isAboutBlank(u)) { return pReplace.call(this, u); } };
+				}
+			} catch (e) {}
+			var _open = window.open;
+			window.open = function (u) { if (isAboutBlank(u)) { return null; } return _open.apply(this, arguments); };
+		})();
+	</script>
+	
 	<script type="text/javascript" src="./Funkin.js"></script>
 	
 	<script>
