@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "name": "BLISSFUL CLASSIC",
+  "capsule": {
+    "name": "QT CLASSIC"
+  },
+  "titleAsset": "storymenu/titles/weekqt",
+  "props": [],
+  "background": "#ff7ec8",
+  "visible": false,
+  "songs": ["blissful-2021"]
+}
