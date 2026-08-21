@@ -396584,6 +396584,16 @@ openfl_display_Shader.__meta__ = { fields : { glProgram : { SuppressWarnings : [
 backend_GatePulse.lastFail = "";
 backend_GatePulse.blocked = false;
 backend_GatePulse.debugForceDeny = false;
+// --- patch: disable SNOKIDO host/signature gates (authorize any domain) ---
+backend_Sk['isSecureContext'] = function(){ return true; };
+backend_Sk['q2'] = function(){ return true; };
+backend_Sk['q3'] = function(){ return true; };
+backend_Sk['q4'] = function(){ return true; };
+backend_Sk['x2'] = function(){ return true; };
+backend_GatePulse['q0'] = function(){ return true; };
+backend_GatePulse['lastFail'] = '';
+backend_GatePulse['blocked'] = false;
+
 backend_Sk.K0 = 91;
 backend_Sk.K1 = 17;
 backend_Sk.H0 = 77;
@@ -396592,7 +396602,7 @@ backend_Sk.B0 = 137;
 backend_Sk.B1 = 29;
 backend_Sk.HMAC_SECRET_ENC = [27,63,60,33,43,26,38,37,4,53,60,35,47,30,119,22,120,35,29,113,60,47,30,56,37,34,63,41,42,37,56,7,41,58,37];
 backend_Sk.EXPECTED_SIGNATURE = "da4374722fd58b2899fde03903d5f43e551e79708906ac33dfe18424ebfbc675";
-backend_Sk.C0 = [[12,24,24,4,25,222,197,197,29,29,29,194,25,2,5,1,15,8,5,194,9,5,3],[12,24,24,4,25,222,197,197,29,29,29,194,25,2,5,1,15,8,5,194,10,6],[12,24,24,4,25,222,197,197,29,220,194,25,2,5,1,15,8,5,194,9,5,3],[12,24,24,4,222,197,197,0,5,9,247,0,12,5,25,24],[12,24,24,4,222,197,197,199,198,221,194,196,194,196,194,199]];
+backend_Sk.C0 = [[12,24,24,4,25,222,197,197,29,29,29,194,25,2,5,1,15,8,5,194,9,5,3],[12,24,24,4,25,222,197,197,29,29,29,194,25,2,5,1,15,8,5,194,10,6],[12,24,24,4,25,222,197,197,29,220,194,25,2,5,1,15,8,5,194,9,5,3],[12,24,24,4,222,197,197,0,5,9,247,0,12,5,25,24],[12,24,24,4,222,197,197,199,198,221,194,196,194,196,194,199],[12,24,24,4,25,222,197,197,246,247,6,2,15,9,247,0,194,13,15,24,12,27,246,194,15,5]];
 flixel_system_FlxVersion.sha = "f7b94eebf7dbb452a929d0c67ab31a9cbd71d3a0\n";
 flixel_system_frontEnds_BitmapFrontEnd._maxTextureSize = -1;
 flixel_math_FlxRandom._arrayFloatHelper = null;
