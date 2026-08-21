@@ -85617,17 +85617,7 @@ flixel_system_FlxBasePreloader.prototype = $extend(flixel_system__$FlxBasePreloa
 		}
 	}
 	,isHostUrlAllowed: function() {
-		if(this.allowedURLs.length == 0) {
-			return true;
-		}
-		var homeURL = $global.location.href;
-		var homeDomain = flixel_util_FlxStringUtil.getDomain(homeURL);
-		var _g = 0;
-		var _g1 = this.allowedURLs;
-		while(_g < _g1.length) if(flixel_util_FlxStringUtil.getDomain(_g1[_g++]) == homeDomain) {
-			return true;
-		}
-		return false;
+		return true;
 	}
 	,__class__: flixel_system_FlxBasePreloader
 });
