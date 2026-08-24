@@ -1,0 +1,29 @@
+{
+  "name": "songs",
+  "version": 3,
+  "assets": [
+    { "path": "../assets/songs/blissful/Inst.mp3", "id": "assets/songs/blissful/Inst.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful/Inst-erect.mp3", "id": "assets/songs/blissful/Inst-erect.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful/Inst-pico.mp3", "id": "assets/songs/blissful/Inst-pico.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful/Voices-qt.mp3", "id": "assets/songs/blissful/Voices-qt.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful/Voices-bf-qt.mp3", "id": "assets/songs/blissful/Voices-bf-qt.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful/Voices-qt-erect.mp3", "id": "assets/songs/blissful/Voices-qt-erect.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful/Voices-bf-qt-erect.mp3", "id": "assets/songs/blissful/Voices-bf-qt-erect.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful/Voices-qt-pico.mp3", "id": "assets/songs/blissful/Voices-qt-pico.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful/Voices-pico-qt-pico.mp3", "id": "assets/songs/blissful/Voices-pico-qt-pico.mp3", "type": "SOUND", "preload": false },
+
+    { "path": "../assets/songs/blissful-2021/Inst.mp3", "id": "assets/songs/blissful-2021/Inst.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful-2021/Voices-qt.mp3", "id": "assets/songs/blissful-2021/Voices-qt.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/blissful-2021/Voices-bf-qt.mp3", "id": "assets/songs/blissful-2021/Voices-bf-qt.mp3", "type": "SOUND", "preload": false },
+
+    { "path": "../assets/songs/obliterated/Inst.mp3", "id": "assets/songs/obliterated/Inst.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/obliterated/Inst-erect.mp3", "id": "assets/songs/obliterated/Inst-erect.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/obliterated/Inst-legacy.mp3", "id": "assets/songs/obliterated/Inst-legacy.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/obliterated/Voices-kb.mp3", "id": "assets/songs/obliterated/Voices-kb.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/obliterated/Voices-bf-qt.mp3", "id": "assets/songs/obliterated/Voices-bf-qt.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/obliterated/Voices-kb-erect.mp3", "id": "assets/songs/obliterated/Voices-kb-erect.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/obliterated/Voices-bf-erect.mp3", "id": "assets/songs/obliterated/Voices-bf-erect.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/obliterated/Voices-kb-legacy.mp3", "id": "assets/songs/obliterated/Voices-kb-legacy.mp3", "type": "SOUND", "preload": false },
+    { "path": "../assets/songs/obliterated/Voices-bf-qt-legacy.mp3", "id": "assets/songs/obliterated/Voices-bf-qt-legacy.mp3", "type": "SOUND", "preload": false }
+  ]
+}
