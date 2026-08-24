@@ -1,0 +1,12 @@
+{
+  "name": "tutorial",
+  "version": 3,
+  "assets": [
+    {
+      "path": "../assets/tutorial/tutorial_stuff_here.txt",
+      "id": "assets/tutorial/tutorial_stuff_here.txt",
+      "type": "TEXT",
+      "preload": true
+    }
+  ]
+}

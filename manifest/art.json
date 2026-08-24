@@ -1,0 +1,24 @@
+{
+  "name": "art",
+  "version": 3,
+  "assets": [
+    {
+      "path": "../do NOT readme.txt",
+      "id": "do NOT readme.txt",
+      "type": "TEXT",
+      "preload": false
+    },
+    {
+      "path": "../LICENSE.md",
+      "id": "LICENSE.md",
+      "type": "TEXT",
+      "preload": false
+    },
+    {
+      "path": "../CHANGELOG.md",
+      "id": "CHANGELOG.md",
+      "type": "TEXT",
+      "preload": false
+    }
+  ]
+}

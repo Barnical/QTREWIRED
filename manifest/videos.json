@@ -1,0 +1,24 @@
+{
+  "name": "videos",
+  "version": 3,
+  "assets": [
+    {
+      "path": "../assets/videos/videos/cutscene.mp4",
+      "id": "assets/videos/videos/cutscene.mp4",
+      "type": "BINARY",
+      "preload": false
+    },
+    {
+      "path": "../assets/videos/videos/obliteratedErectEdit.mp4",
+      "id": "assets/videos/videos/obliteratedErectEdit.mp4",
+      "type": "BINARY",
+      "preload": false
+    },
+    {
+      "path": "../assets/videos/videos/obliteratedErectMid.mp4",
+      "id": "assets/videos/videos/obliteratedErectMid.mp4",
+      "type": "BINARY",
+      "preload": false
+    }
+  ]
+}

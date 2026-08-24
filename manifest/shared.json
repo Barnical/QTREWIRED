@@ -1,0 +1,2640 @@
+{
+  "name": "shared",
+  "version": 3,
+  "assets": [
+    {
+      "path": "../assets/shared/images/2021/bad.png",
+      "id": "assets/shared/images/2021/bad.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/good.png",
+      "id": "assets/shared/images/2021/good.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/qt-kb.png",
+      "id": "assets/shared/images/2021/qt-kb.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/qt-kb.xml",
+      "id": "assets/shared/images/2021/qt-kb.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/qt.png",
+      "id": "assets/shared/images/2021/qt.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/qt.xml",
+      "id": "assets/shared/images/2021/qt.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/shit.png",
+      "id": "assets/shared/images/2021/shit.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/sick.png",
+      "id": "assets/shared/images/2021/sick.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/streetBackCute.png",
+      "id": "assets/shared/images/2021/streetBackCute.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/streetFrontCute.png",
+      "id": "assets/shared/images/2021/streetFrontCute.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/2021/TV_V2_off.png",
+      "id": "assets/shared/images/2021/TV_V2_off.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/blissful/bg.png",
+      "id": "assets/shared/images/blissful/bg.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/common/gradientManager.png",
+      "id": "assets/shared/images/common/gradientManager.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/common/gradientManager.xml",
+      "id": "assets/shared/images/common/gradientManager.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/cutscene/lightFocus.png",
+      "id": "assets/shared/images/cutscene/lightFocus.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/bgBuilding.png",
+      "id": "assets/shared/images/erectCity/bgBuilding.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/bgBuildings2.png",
+      "id": "assets/shared/images/erectCity/bgBuildings2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/car.png",
+      "id": "assets/shared/images/erectCity/car.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/car1.png",
+      "id": "assets/shared/images/erectCity/car1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/car2.png",
+      "id": "assets/shared/images/erectCity/car2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/clouds.png",
+      "id": "assets/shared/images/erectCity/clouds.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/flower.png",
+      "id": "assets/shared/images/erectCity/flower.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/flower.xml",
+      "id": "assets/shared/images/erectCity/flower.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/grass.png",
+      "id": "assets/shared/images/erectCity/grass.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/grass.xml",
+      "id": "assets/shared/images/erectCity/grass.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/lampAndBuilding.png",
+      "id": "assets/shared/images/erectCity/lampAndBuilding.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/mainGround.png",
+      "id": "assets/shared/images/erectCity/mainGround.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/overlayAdd.png",
+      "id": "assets/shared/images/erectCity/overlayAdd.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/overlayOverlay.png",
+      "id": "assets/shared/images/erectCity/overlayOverlay.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/poster.png",
+      "id": "assets/shared/images/erectCity/poster.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/poster.xml",
+      "id": "assets/shared/images/erectCity/poster.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/signBetterCallSahur.png",
+      "id": "assets/shared/images/erectCity/signBetterCallSahur.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/sky.png",
+      "id": "assets/shared/images/erectCity/sky.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/stars.png",
+      "id": "assets/shared/images/erectCity/stars.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/stars.xml",
+      "id": "assets/shared/images/erectCity/stars.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/storeBg.png",
+      "id": "assets/shared/images/erectCity/storeBg.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/storeInterior.png",
+      "id": "assets/shared/images/erectCity/storeInterior.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/erectCity/storeLightAdd.png",
+      "id": "assets/shared/images/erectCity/storeLightAdd.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/gradient.png",
+      "id": "assets/shared/images/gradient.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/healthBar.png",
+      "id": "assets/shared/images/healthBar.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/holdCoverBlue.png",
+      "id": "assets/shared/images/holdCoverBlue.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/holdCoverBlue.xml",
+      "id": "assets/shared/images/holdCoverBlue.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/holdCoverGreen.png",
+      "id": "assets/shared/images/holdCoverGreen.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/holdCoverGreen.xml",
+      "id": "assets/shared/images/holdCoverGreen.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/holdCoverPurple.png",
+      "id": "assets/shared/images/holdCoverPurple.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/holdCoverPurple.xml",
+      "id": "assets/shared/images/holdCoverPurple.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/holdCoverRed.png",
+      "id": "assets/shared/images/holdCoverRed.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/holdCoverRed.xml",
+      "id": "assets/shared/images/holdCoverRed.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/latencyArrow.png",
+      "id": "assets/shared/images/latencyArrow.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/latencyReceptor.png",
+      "id": "assets/shared/images/latencyReceptor.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/notes.png",
+      "id": "assets/shared/images/notes.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/notes.xml",
+      "id": "assets/shared/images/notes.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/noteSplashes.png",
+      "id": "assets/shared/images/noteSplashes.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/noteSplashes.xml",
+      "id": "assets/shared/images/noteSplashes.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/noteStrumline.png",
+      "id": "assets/shared/images/noteStrumline.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/noteStrumline.xml",
+      "id": "assets/shared/images/noteStrumline.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/NOTE_hold_assets.png",
+      "id": "assets/shared/images/NOTE_hold_assets.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/bg.png",
+      "id": "assets/shared/images/obliterated/bg.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/blue_screens.png",
+      "id": "assets/shared/images/obliterated/blue_screens.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/fg.png",
+      "id": "assets/shared/images/obliterated/fg.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/fg_shine.png",
+      "id": "assets/shared/images/obliterated/fg_shine.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/screen_danger.png",
+      "id": "assets/shared/images/obliterated/screen_danger.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/tv_lights_assets.png",
+      "id": "assets/shared/images/obliterated/tv_lights_assets.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/tv_lights_assets.xml",
+      "id": "assets/shared/images/obliterated/tv_lights_assets.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/tv_shadow.png",
+      "id": "assets/shared/images/obliterated/tv_shadow.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/tv_shine.png",
+      "id": "assets/shared/images/obliterated/tv_shine.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/tv_static_assets.png",
+      "id": "assets/shared/images/obliterated/tv_static_assets.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/tv_static_assets.xml",
+      "id": "assets/shared/images/obliterated/tv_static_assets.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/wire1.png",
+      "id": "assets/shared/images/obliterated/wire1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliterated/wire2.png",
+      "id": "assets/shared/images/obliterated/wire2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/bgBuilding.png",
+      "id": "assets/shared/images/obliteratedErect/bgBuilding.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/bgBuildings2.png",
+      "id": "assets/shared/images/obliteratedErect/bgBuildings2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/car.png",
+      "id": "assets/shared/images/obliteratedErect/car.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/flower.png",
+      "id": "assets/shared/images/obliteratedErect/flower.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/flower.xml",
+      "id": "assets/shared/images/obliteratedErect/flower.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/grass.png",
+      "id": "assets/shared/images/obliteratedErect/grass.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/grass.xml",
+      "id": "assets/shared/images/obliteratedErect/grass.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/lampAndBuilding.png",
+      "id": "assets/shared/images/obliteratedErect/lampAndBuilding.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/mainGround.png",
+      "id": "assets/shared/images/obliteratedErect/mainGround.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/mistBack.png",
+      "id": "assets/shared/images/obliteratedErect/mistBack.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/mistFront.png",
+      "id": "assets/shared/images/obliteratedErect/mistFront.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/mistMid.png",
+      "id": "assets/shared/images/obliteratedErect/mistMid.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/overlayAdd.png",
+      "id": "assets/shared/images/obliteratedErect/overlayAdd.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/poster.png",
+      "id": "assets/shared/images/obliteratedErect/poster.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/poster.xml",
+      "id": "assets/shared/images/obliteratedErect/poster.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/signBetterCallSahur.png",
+      "id": "assets/shared/images/obliteratedErect/signBetterCallSahur.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/sky.png",
+      "id": "assets/shared/images/obliteratedErect/sky.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/storeBg.png",
+      "id": "assets/shared/images/obliteratedErect/storeBg.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/storeInterior.png",
+      "id": "assets/shared/images/obliteratedErect/storeInterior.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/tvLightsAdd.png",
+      "id": "assets/shared/images/obliteratedErect/tvLightsAdd.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/tvLightsAdd.xml",
+      "id": "assets/shared/images/obliteratedErect/tvLightsAdd.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/tvScreens.png",
+      "id": "assets/shared/images/obliteratedErect/tvScreens.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/tvScreens.xml",
+      "id": "assets/shared/images/obliteratedErect/tvScreens.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/wind.png",
+      "id": "assets/shared/images/obliteratedErect/wind.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/obliteratedErect/wind.xml",
+      "id": "assets/shared/images/obliteratedErect/wind.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/bridge.png",
+      "id": "assets/shared/images/outskirts/bridge.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/bus/Animation.json",
+      "id": "assets/shared/images/outskirts/bus/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/bus/spritemap1.json",
+      "id": "assets/shared/images/outskirts/bus/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/bus/spritemap1.png",
+      "id": "assets/shared/images/outskirts/bus/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/busStop.png",
+      "id": "assets/shared/images/outskirts/busStop.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/cars/Animation.json",
+      "id": "assets/shared/images/outskirts/cars/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/cars/spritemap1.json",
+      "id": "assets/shared/images/outskirts/cars/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/cars/spritemap1.png",
+      "id": "assets/shared/images/outskirts/cars/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/cityBack.png",
+      "id": "assets/shared/images/outskirts/cityBack.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/cityFront.png",
+      "id": "assets/shared/images/outskirts/cityFront.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/clouds.png",
+      "id": "assets/shared/images/outskirts/clouds.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/electricPoles.png",
+      "id": "assets/shared/images/outskirts/electricPoles.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/foregroundReeds.png",
+      "id": "assets/shared/images/outskirts/foregroundReeds.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/foregroundTV.png",
+      "id": "assets/shared/images/outskirts/foregroundTV.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/grass.png",
+      "id": "assets/shared/images/outskirts/grass.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/grassPico.png",
+      "id": "assets/shared/images/outskirts/grassPico.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/grassSpeaker.png",
+      "id": "assets/shared/images/outskirts/grassSpeaker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/lightPole1.png",
+      "id": "assets/shared/images/outskirts/lightPole1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/lightPole2.png",
+      "id": "assets/shared/images/outskirts/lightPole2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/lucky.png",
+      "id": "assets/shared/images/outskirts/lucky.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/overlayAdd.png",
+      "id": "assets/shared/images/outskirts/overlayAdd.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/overlayMultiply.png",
+      "id": "assets/shared/images/outskirts/overlayMultiply.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/overlayOverlay.png",
+      "id": "assets/shared/images/outskirts/overlayOverlay.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/qtPlushie.png",
+      "id": "assets/shared/images/outskirts/qtPlushie.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/sky.png",
+      "id": "assets/shared/images/outskirts/sky.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/sunlightAdd.png",
+      "id": "assets/shared/images/outskirts/sunlightAdd.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/tree.png",
+      "id": "assets/shared/images/outskirts/tree.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/tvs.png",
+      "id": "assets/shared/images/outskirts/tvs.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/outskirts/wall.png",
+      "id": "assets/shared/images/outskirts/wall.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/pauseAlt/bfLol.png",
+      "id": "assets/shared/images/pauseAlt/bfLol.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/pauseAlt/bfLol.xml",
+      "id": "assets/shared/images/pauseAlt/bfLol.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/pauseAlt/pauseBG.png",
+      "id": "assets/shared/images/pauseAlt/pauseBG.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/pauseAlt/pauseUI.png",
+      "id": "assets/shared/images/pauseAlt/pauseUI.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/pauseAlt/pauseUI.xml",
+      "id": "assets/shared/images/pauseAlt/pauseUI.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/plushButton/qt_makeship.png",
+      "id": "assets/shared/images/plushButton/qt_makeship.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/plushButton/qt_makeship.xml",
+      "id": "assets/shared/images/plushButton/qt_makeship.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/clearPercentNumberLeft.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberLeft.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/clearPercentNumberLeft.xml",
+      "id": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberLeft.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/clearPercentNumberRight.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberRight.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/clearPercentNumberRight.xml",
+      "id": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberRight.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/clearPercentNumberSmall.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberSmall.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/clearPercentNumberSmall.xml",
+      "id": "assets/shared/images/resultScreen/clearPercent/clearPercentNumberSmall.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/clearPercentText.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/clearPercentText.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/clearPercentTextSmall.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/clearPercentTextSmall.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0001.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0001.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0002.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0002.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0003.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0003.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0004.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0004.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0005.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0005.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0006.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0006.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0007.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0007.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0008.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0008.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0009.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0009.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/clearPercent/numbers small0010.png",
+      "id": "assets/shared/images/resultScreen/clearPercent/numbers small0010.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/diff_easy.png",
+      "id": "assets/shared/images/resultScreen/diff_easy.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/diff_erect.png",
+      "id": "assets/shared/images/resultScreen/diff_erect.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/diff_hard.png",
+      "id": "assets/shared/images/resultScreen/diff_hard.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/diff_nightmare.png",
+      "id": "assets/shared/images/resultScreen/diff_nightmare.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/diff_normal.png",
+      "id": "assets/shared/images/resultScreen/diff_normal.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/highscoreNew.png",
+      "id": "assets/shared/images/resultScreen/highscoreNew.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/highscoreNew.xml",
+      "id": "assets/shared/images/resultScreen/highscoreNew.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankScrollEXCELLENT.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankScrollEXCELLENT.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankScrollGOOD.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankScrollGOOD.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankScrollGREAT.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankScrollGREAT.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankScrollLOSS.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankScrollLOSS.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankScrollPERFECT.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankScrollPERFECT.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankTextEXCELLENT.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankTextEXCELLENT.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankTextGOOD.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankTextGOOD.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankTextGREAT.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankTextGREAT.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankTextLOSS.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankTextLOSS.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/rankText/rankTextPERFECT.png",
+      "id": "assets/shared/images/resultScreen/rankText/rankTextPERFECT.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/ratingsPopin.png",
+      "id": "assets/shared/images/resultScreen/ratingsPopin.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/ratingsPopin.xml",
+      "id": "assets/shared/images/resultScreen/ratingsPopin.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsEXCELLENT/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGOOD/bf/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGOOD/bf/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGOOD/bf/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGOOD/bf/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGOOD/bf/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGOOD/bf/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD.xml",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGOOD/resultGirlfriendGOOD.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGREAT/bf/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsGREAT/gf/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/bed/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/bed/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/bed/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/bed/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/bed/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/bed/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/hearts/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/hearts/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/hearts/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/hearts/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/hearts/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/hearts/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/tickleFight/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/tickleFight/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/tickleFight/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/tickleFight/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsPERFECT/tickleFight/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsPERFECT/tickleFight/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsSHIT/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsSHIT/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsSHIT/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsSHIT/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-bf/resultsSHIT/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-bf/resultsSHIT/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsGOOD/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsGOOD/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsGOOD/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsGOOD/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsGOOD/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsGOOD/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsGREAT/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsGREAT/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsGREAT/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsGREAT/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsGREAT/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsGREAT/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsPERFECT/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsPERFECT/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsPERFECT/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsPERFECT/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsPERFECT/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsPERFECT/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsSHIT/Animation.json",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsSHIT/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsSHIT/spritemap1.json",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsSHIT/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results-pico/resultsSHIT/spritemap1.png",
+      "id": "assets/shared/images/resultScreen/results-pico/resultsSHIT/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results.png",
+      "id": "assets/shared/images/resultScreen/results.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/results.xml",
+      "id": "assets/shared/images/resultScreen/results.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/score-digital-numbers.png",
+      "id": "assets/shared/images/resultScreen/score-digital-numbers.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/score-digital-numbers.xml",
+      "id": "assets/shared/images/resultScreen/score-digital-numbers.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/scorePopin.png",
+      "id": "assets/shared/images/resultScreen/scorePopin.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/scorePopin.xml",
+      "id": "assets/shared/images/resultScreen/scorePopin.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/soundSystem.png",
+      "id": "assets/shared/images/resultScreen/soundSystem.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/soundSystem.xml",
+      "id": "assets/shared/images/resultScreen/soundSystem.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/tallieNumber.png",
+      "id": "assets/shared/images/resultScreen/tallieNumber.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/tallieNumber.xml",
+      "id": "assets/shared/images/resultScreen/tallieNumber.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/tardlingSpritesheet.png",
+      "id": "assets/shared/images/resultScreen/tardlingSpritesheet.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/resultScreen/topBarBlack.png",
+      "id": "assets/shared/images/resultScreen/topBarBlack.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/saw_mechanic/saw_assets/Animation.json",
+      "id": "assets/shared/images/saw_mechanic/saw_assets/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/saw_mechanic/saw_assets/spritemap1.json",
+      "id": "assets/shared/images/saw_mechanic/saw_assets/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/saw_mechanic/saw_assets/spritemap1.png",
+      "id": "assets/shared/images/saw_mechanic/saw_assets/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/saw_mechanic/warning/Animation.json",
+      "id": "assets/shared/images/saw_mechanic/warning/Animation.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/saw_mechanic/warning/spritemap1.json",
+      "id": "assets/shared/images/saw_mechanic/warning/spritemap1.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/saw_mechanic/warning/spritemap1.png",
+      "id": "assets/shared/images/saw_mechanic/warning/spritemap1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stageback.png",
+      "id": "assets/shared/images/stageback.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stagecurtains.png",
+      "id": "assets/shared/images/stagecurtains.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stagefront.png",
+      "id": "assets/shared/images/stagefront.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stage_light.png",
+      "id": "assets/shared/images/stage_light.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/kbstickers/dangerSticker.png",
+      "id": "assets/shared/images/stickers/kbstickers/dangerSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/kbstickers/kbSticker1.png",
+      "id": "assets/shared/images/stickers/kbstickers/kbSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/kbstickers/kbSticker2.png",
+      "id": "assets/shared/images/stickers/kbstickers/kbSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/kbstickers/kbSticker3.png",
+      "id": "assets/shared/images/stickers/kbstickers/kbSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/kbstickers/nutSticker.png",
+      "id": "assets/shared/images/stickers/kbstickers/nutSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/kbstickers/qtKbSticker.png",
+      "id": "assets/shared/images/stickers/kbstickers/qtKbSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/kbstickers/sawSticker.png",
+      "id": "assets/shared/images/stickers/kbstickers/sawSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/kbstickers/tvSticker.png",
+      "id": "assets/shared/images/stickers/kbstickers/tvSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/cloudSticker.png",
+      "id": "assets/shared/images/stickers/qtStickers/cloudSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/crayonSticker.png",
+      "id": "assets/shared/images/stickers/qtStickers/crayonSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/flowerSticker1.png",
+      "id": "assets/shared/images/stickers/qtStickers/flowerSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/flowerSticker2.png",
+      "id": "assets/shared/images/stickers/qtStickers/flowerSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/qtSticker1.png",
+      "id": "assets/shared/images/stickers/qtStickers/qtSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/qtSticker2.png",
+      "id": "assets/shared/images/stickers/qtStickers/qtSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/qtSticker3.png",
+      "id": "assets/shared/images/stickers/qtStickers/qtSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/skullSticker.png",
+      "id": "assets/shared/images/stickers/qtStickers/skullSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtStickers/starSticker.png",
+      "id": "assets/shared/images/stickers/qtStickers/starSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtstickerspico/appleSticker.png",
+      "id": "assets/shared/images/stickers/qtstickerspico/appleSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtstickerspico/drinkSticker.png",
+      "id": "assets/shared/images/stickers/qtstickerspico/drinkSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtstickerspico/lollipopSticker.png",
+      "id": "assets/shared/images/stickers/qtstickerspico/lollipopSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtstickerspico/posterSticker.png",
+      "id": "assets/shared/images/stickers/qtstickerspico/posterSticker.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtstickerspico/qtSticker1.png",
+      "id": "assets/shared/images/stickers/qtstickerspico/qtSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtstickerspico/qtSticker2.png",
+      "id": "assets/shared/images/stickers/qtstickerspico/qtSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtstickerspico/qtSticker3.png",
+      "id": "assets/shared/images/stickers/qtstickerspico/qtSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/stickers/qtstickerspico/skullSticker1.png",
+      "id": "assets/shared/images/stickers/qtstickerspico/skullSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/bfSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/bfSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/bfSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/bfSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/bfSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/bfSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/dadSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/dadSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/dadSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/dadSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/dadSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/dadSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/gfSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/gfSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/gfSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/gfSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/gfSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/gfSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/momSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/momSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/momSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/momSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/momSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/momSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/monsterSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/monsterSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/monsterSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/monsterSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/monsterSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/monsterSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/picoSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/picoSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/picoSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/picoSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-1/picoSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-1/picoSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/alucardSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/alucardSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/alucardSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/alucardSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/cassandraSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/cassandraSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/cassandraSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/cassandraSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/cassandraSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/cassandraSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/cyclopsSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/cyclopsSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/cyclopsSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/cyclopsSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/dadSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/dadSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/dadSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/dadSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/dadSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/dadSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/darnellSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/darnellSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/darnellSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/darnellSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/darnellSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/darnellSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/miscSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/miscSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/miscSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/miscSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/miscSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/miscSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/miscSticker4.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/miscSticker4.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/miscSticker5.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/miscSticker5.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/neneSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/neneSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/neneSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/neneSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/neneSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/neneSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/picoSticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/picoSticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/picoSticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/picoSticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/picoSticker3.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/picoSticker3.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/someDeadGuySticker1.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/someDeadGuySticker1.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/transitionSwag/stickers-set-2/someDeadGuySticker2.png",
+      "id": "assets/shared/images/transitionSwag/stickers-set-2/someDeadGuySticker2.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/chart-editor/events/changeStage.png",
+      "id": "assets/shared/images/ui/chart-editor/events/changeStage.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/chart-editor/events/changeStage.xml",
+      "id": "assets/shared/images/ui/chart-editor/events/changeStage.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/chart-editor/events/sawKB.png",
+      "id": "assets/shared/images/ui/chart-editor/events/sawKB.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/chart-editor/events/sawKB.xml",
+      "id": "assets/shared/images/ui/chart-editor/events/sawKB.xml",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/countdown/funkin/go.png",
+      "id": "assets/shared/images/ui/countdown/funkin/go.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/countdown/funkin/ready.png",
+      "id": "assets/shared/images/ui/countdown/funkin/ready.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/countdown/funkin/set.png",
+      "id": "assets/shared/images/ui/countdown/funkin/set.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/countdown/pixel/go.png",
+      "id": "assets/shared/images/ui/countdown/pixel/go.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/countdown/pixel/ready.png",
+      "id": "assets/shared/images/ui/countdown/pixel/ready.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/images/ui/countdown/pixel/set.png",
+      "id": "assets/shared/images/ui/countdown/pixel/set.png",
+      "type": "IMAGE",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/breakfast/breakfast.mp3",
+      "id": "assets/shared/music/breakfast/breakfast.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/breakfast-pico/breakfast-pico-metadata.json",
+      "id": "assets/shared/music/breakfast-pico/breakfast-pico-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/breakfast-pico/breakfast-pico.mp3",
+      "id": "assets/shared/music/breakfast-pico/breakfast-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/gameover/gameOver-pico.mp3",
+      "id": "assets/shared/music/gameplay/gameover/gameOver-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/gameover/gameOver-sawblade.mp3",
+      "id": "assets/shared/music/gameplay/gameover/gameOver-sawblade.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/gameover/gameOver.mp3",
+      "id": "assets/shared/music/gameplay/gameover/gameOver.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/gameover/gameOverEnd-pico.mp3",
+      "id": "assets/shared/music/gameplay/gameover/gameOverEnd-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/gameover/gameOverEnd-sawblade.mp3",
+      "id": "assets/shared/music/gameplay/gameover/gameOverEnd-sawblade.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/gameover/gameOverEnd.mp3",
+      "id": "assets/shared/music/gameplay/gameover/gameOverEnd.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/introSong/introSong-default.json",
+      "id": "assets/shared/music/gameplay/introSong/introSong-default.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/introSong/introSong-default.mp3",
+      "id": "assets/shared/music/gameplay/introSong/introSong-default.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/introSong/introSong-erect.json",
+      "id": "assets/shared/music/gameplay/introSong/introSong-erect.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/introSong/introSong-erect.mp3",
+      "id": "assets/shared/music/gameplay/introSong/introSong-erect.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/introSong/introSong-pico.json",
+      "id": "assets/shared/music/gameplay/introSong/introSong-pico.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/introSong/introSong-pico.mp3",
+      "id": "assets/shared/music/gameplay/introSong/introSong-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/introSong/outroSong-erect.json",
+      "id": "assets/shared/music/gameplay/introSong/outroSong-erect.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/gameplay/introSong/outroSong-erect.mp3",
+      "id": "assets/shared/music/gameplay/introSong/outroSong-erect.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/qtsfx/qtsfx-metadata.json",
+      "id": "assets/shared/music/qtsfx/qtsfx-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/qtsfx/qtsfx.mp3",
+      "id": "assets/shared/music/qtsfx/qtsfx.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsEXCELLENT/resultsEXCELLENT-intro.mp3",
+      "id": "assets/shared/music/resultsEXCELLENT/resultsEXCELLENT-intro.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsEXCELLENT/resultsEXCELLENT-metadata.json",
+      "id": "assets/shared/music/resultsEXCELLENT/resultsEXCELLENT-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsEXCELLENT/resultsEXCELLENT.mp3",
+      "id": "assets/shared/music/resultsEXCELLENT/resultsEXCELLENT.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsEXCELLENT-pico/resultsEXCELLENT-pico-intro.mp3",
+      "id": "assets/shared/music/resultsEXCELLENT-pico/resultsEXCELLENT-pico-intro.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsEXCELLENT-pico/resultsEXCELLENT-pico-metadata.json",
+      "id": "assets/shared/music/resultsEXCELLENT-pico/resultsEXCELLENT-pico-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsEXCELLENT-pico/resultsEXCELLENT-pico.mp3",
+      "id": "assets/shared/music/resultsEXCELLENT-pico/resultsEXCELLENT-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsNORMAL/resultsNORMAL-metadata.json",
+      "id": "assets/shared/music/resultsNORMAL/resultsNORMAL-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsNORMAL/resultsNORMAL.mp3",
+      "id": "assets/shared/music/resultsNORMAL/resultsNORMAL.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsNORMAL-pico/resultsNORMAL-pico-metadata.json",
+      "id": "assets/shared/music/resultsNORMAL-pico/resultsNORMAL-pico-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsNORMAL-pico/resultsNORMAL-pico.mp3",
+      "id": "assets/shared/music/resultsNORMAL-pico/resultsNORMAL-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsPERFECT/resultsPERFECT-metadata.json",
+      "id": "assets/shared/music/resultsPERFECT/resultsPERFECT-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsPERFECT/resultsPERFECT.mp3",
+      "id": "assets/shared/music/resultsPERFECT/resultsPERFECT.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsPERFECT-pico/resultsPERFECT-pico-intro.mp3",
+      "id": "assets/shared/music/resultsPERFECT-pico/resultsPERFECT-pico-intro.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsPERFECT-pico/resultsPERFECT-pico-metadata.json",
+      "id": "assets/shared/music/resultsPERFECT-pico/resultsPERFECT-pico-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsPERFECT-pico/resultsPERFECT-pico.mp3",
+      "id": "assets/shared/music/resultsPERFECT-pico/resultsPERFECT-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsSHIT/resultsSHIT-intro.mp3",
+      "id": "assets/shared/music/resultsSHIT/resultsSHIT-intro.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsSHIT/resultsSHIT-metadata.json",
+      "id": "assets/shared/music/resultsSHIT/resultsSHIT-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsSHIT/resultsSHIT.mp3",
+      "id": "assets/shared/music/resultsSHIT/resultsSHIT.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsSHIT-pico/resultsSHIT-pico-metadata.json",
+      "id": "assets/shared/music/resultsSHIT-pico/resultsSHIT-pico-metadata.json",
+      "type": "TEXT",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/resultsSHIT-pico/resultsSHIT-pico.mp3",
+      "id": "assets/shared/music/resultsSHIT-pico/resultsSHIT-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/music/scrappedMenu.mp3",
+      "id": "assets/shared/music/scrappedMenu.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/burp.mp3",
+      "id": "assets/shared/sounds/burp.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/clickText.mp3",
+      "id": "assets/shared/sounds/clickText.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/bus.mp3",
+      "id": "assets/shared/sounds/gameplay/bus.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/english/hi_cutie.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/english/hi_cutie.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/funkin/introGO.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/funkin/introGO.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/funkin/introONE.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/funkin/introONE.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/funkin/introTHREE.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/funkin/introTHREE.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/funkin/introTWO.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/funkin/introTWO.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/pixel/introGO.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/pixel/introGO.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/pixel/introONE.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/pixel/introONE.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/pixel/introTHREE.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/pixel/introTHREE.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/pixel/introTWO.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/pixel/introTWO.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/countdown/spanish/hi_cutie.mp3",
+      "id": "assets/shared/sounds/gameplay/countdown/spanish/hi_cutie.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/english/bf/bf_erect_shoulder_swish.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/english/bf/bf_erect_shoulder_swish.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/english/bf/bf_erect_yeah.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/english/bf/bf_erect_yeah.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/english/bf/qt_erect_ending.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/english/bf/qt_erect_ending.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/english/bf/qt_erect_intro_1.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/english/bf/qt_erect_intro_1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/english/bf/qt_erect_intro_2.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/english/bf/qt_erect_intro_2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/pico/introCutscene/picoWave.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/pico/introCutscene/picoWave.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/spanish/bf/qt_erect_ending.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/spanish/bf/qt_erect_ending.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/spanish/bf/qt_erect_intro_1.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/spanish/bf/qt_erect_intro_1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/cutsceneSfx/spanish/bf/qt_erect_intro_2.mp3",
+      "id": "assets/shared/sounds/gameplay/cutsceneSfx/spanish/bf/qt_erect_intro_2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/gameover/d.mp3",
+      "id": "assets/shared/sounds/gameplay/gameover/d.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/gameover/fakeout_death.mp3",
+      "id": "assets/shared/sounds/gameplay/gameover/fakeout_death.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/gameover/fnf_loss_sfx-pico.mp3",
+      "id": "assets/shared/sounds/gameplay/gameover/fnf_loss_sfx-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/gameover/fnf_loss_sfx-pixel-pico.mp3",
+      "id": "assets/shared/sounds/gameplay/gameover/fnf_loss_sfx-pixel-pico.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/gameover/fnf_loss_sfx-pixel.mp3",
+      "id": "assets/shared/sounds/gameplay/gameover/fnf_loss_sfx-pixel.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/gameover/fnf_loss_sfx-sawblade.mp3",
+      "id": "assets/shared/sounds/gameplay/gameover/fnf_loss_sfx-sawblade.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/gameover/fnf_loss_sfx.mp3",
+      "id": "assets/shared/sounds/gameplay/gameover/fnf_loss_sfx.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/motorcycle.mp3",
+      "id": "assets/shared/sounds/gameplay/motorcycle.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/gameplay/stoneMoving.mp3",
+      "id": "assets/shared/sounds/gameplay/stoneMoving.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/lightmiss.mp3",
+      "id": "assets/shared/sounds/lightmiss.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/missnote1.mp3",
+      "id": "assets/shared/sounds/missnote1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/missnote2.mp3",
+      "id": "assets/shared/sounds/missnote2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/missnote3.mp3",
+      "id": "assets/shared/sounds/missnote3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/pixelText.mp3",
+      "id": "assets/shared/sounds/pixelText.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/bf/qtGameover-1.mp3",
+      "id": "assets/shared/sounds/qtgameover/bf/qtGameover-1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/bf/qtGameover-2.mp3",
+      "id": "assets/shared/sounds/qtgameover/bf/qtGameover-2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/bf/qtGameover-3.mp3",
+      "id": "assets/shared/sounds/qtgameover/bf/qtGameover-3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/bf/qtGameover-4.mp3",
+      "id": "assets/shared/sounds/qtgameover/bf/qtGameover-4.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/bf/qtGameover-5.mp3",
+      "id": "assets/shared/sounds/qtgameover/bf/qtGameover-5.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/bf/qtGameover-6.mp3",
+      "id": "assets/shared/sounds/qtgameover/bf/qtGameover-6.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/bf/qtGameover-7.mp3",
+      "id": "assets/shared/sounds/qtgameover/bf/qtGameover-7.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/bf/qtGameover-1.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/bf/qtGameover-1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/bf/qtGameover-2.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/bf/qtGameover-2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/bf/qtGameover-3.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/bf/qtGameover-3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/bf/qtGameover-4.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/bf/qtGameover-4.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/bf/qtGameover-5.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/bf/qtGameover-5.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/bf/qtGameover-6.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/bf/qtGameover-6.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/bf/qtGameover-7.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/bf/qtGameover-7.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/pico/qtGameover-1.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/pico/qtGameover-1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/pico/qtGameover-2.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/pico/qtGameover-2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/pico/qtGameover-3.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/pico/qtGameover-3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/pico/qtGameover-4.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/pico/qtGameover-4.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/pico/qtGameover-5.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/pico/qtGameover-5.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/english/pico/qtGameover-6.mp3",
+      "id": "assets/shared/sounds/qtgameover/english/pico/qtGameover-6.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/pico/qtGameover-1.mp3",
+      "id": "assets/shared/sounds/qtgameover/pico/qtGameover-1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/pico/qtGameover-2.mp3",
+      "id": "assets/shared/sounds/qtgameover/pico/qtGameover-2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/pico/qtGameover-3.mp3",
+      "id": "assets/shared/sounds/qtgameover/pico/qtGameover-3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/pico/qtGameover-4.mp3",
+      "id": "assets/shared/sounds/qtgameover/pico/qtGameover-4.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/pico/qtGameover-5.mp3",
+      "id": "assets/shared/sounds/qtgameover/pico/qtGameover-5.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/pico/qtGameover-6.mp3",
+      "id": "assets/shared/sounds/qtgameover/pico/qtGameover-6.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/bf/qtGameover-1.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/bf/qtGameover-1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/bf/qtGameover-2.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/bf/qtGameover-2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/bf/qtGameover-3.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/bf/qtGameover-3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/bf/qtGameover-4.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/bf/qtGameover-4.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/bf/qtGameover-5.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/bf/qtGameover-5.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/bf/qtGameover-6.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/bf/qtGameover-6.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/bf/qtGameover-7.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/bf/qtGameover-7.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/pico/qtGameover-1.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/pico/qtGameover-1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/pico/qtGameover-2.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/pico/qtGameover-2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/pico/qtGameover-3.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/pico/qtGameover-3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/pico/qtGameover-4.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/pico/qtGameover-4.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/pico/qtGameover-5.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/pico/qtGameover-5.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtgameover/spanish/pico/qtGameover-6.mp3",
+      "id": "assets/shared/sounds/qtgameover/spanish/pico/qtGameover-6.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/qtsfx.mp3",
+      "id": "assets/shared/sounds/qtsfx.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/sawblades/alerts/alert-1.mp3",
+      "id": "assets/shared/sounds/sawblades/alerts/alert-1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/sawblades/alerts/alert-2.mp3",
+      "id": "assets/shared/sounds/sawblades/alerts/alert-2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/sawblades/alerts/alert-3.mp3",
+      "id": "assets/shared/sounds/sawblades/alerts/alert-3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/sawblades/attacks/attack-1.mp3",
+      "id": "assets/shared/sounds/sawblades/attacks/attack-1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/sawblades/attacks/attack-2.mp3",
+      "id": "assets/shared/sounds/sawblades/attacks/attack-2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/sawblades/attacks/attack-3.mp3",
+      "id": "assets/shared/sounds/sawblades/attacks/attack-3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/sfxfkberect.mp3",
+      "id": "assets/shared/sounds/sfxfkberect.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/stickersounds/keys/keyClick1.mp3",
+      "id": "assets/shared/sounds/stickersounds/keys/keyClick1.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/stickersounds/keys/keyClick2.mp3",
+      "id": "assets/shared/sounds/stickersounds/keys/keyClick2.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/stickersounds/keys/keyClick3.mp3",
+      "id": "assets/shared/sounds/stickersounds/keys/keyClick3.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/stickersounds/keys/keyClick4.mp3",
+      "id": "assets/shared/sounds/stickersounds/keys/keyClick4.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/stickersounds/keys/keyClick5.mp3",
+      "id": "assets/shared/sounds/stickersounds/keys/keyClick5.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/stickersounds/keys/keyClick7.mp3",
+      "id": "assets/shared/sounds/stickersounds/keys/keyClick7.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/stickersounds/keys/keyClick8.mp3",
+      "id": "assets/shared/sounds/stickersounds/keys/keyClick8.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/stickersounds/keys/keyClick9.mp3",
+      "id": "assets/shared/sounds/stickersounds/keys/keyClick9.mp3",
+      "type": "MUSIC",
+      "preload": true
+    },
+    {
+      "path": "../assets/shared/sounds/tickleFight.mp3",
+      "id": "assets/shared/sounds/tickleFight.mp3",
+      "type": "MUSIC",
+      "preload": true
+    }
+  ]
+}
